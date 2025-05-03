@@ -1,0 +1,3 @@
+TooSimpleSyncLocation.MainActivity, TooSimpleSyncLocation;crc6416ea9a24f1d5490c.MainActivity
+TooSimpleSyncLocation.MainActivity;crc6416ea9a24f1d5490c.MainActivity
+toosimplesynclocation.MainActivity;crc6416ea9a24f1d5490c.MainActivity
